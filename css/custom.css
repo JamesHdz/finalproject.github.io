@@ -1,0 +1,19 @@
+.section-header {
+    background-color: #0076CE;
+}
+
+.mh-search-btn {
+    position: absolute;
+    display: block;
+    padding: 2px 12px;
+    color: #fff;
+    right: 1px;
+    top: 1px;
+    line-height: 21px;
+    bottom: 1px;
+    border-radius: 2px;
+    height: auto;
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#118fd6),to(#0f6eca));
+    background-image: linear-gradient(to bottom,#118fd6,#0f6eca);
+    cursor: pointer;
+}
